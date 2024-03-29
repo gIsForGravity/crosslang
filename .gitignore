@@ -1,0 +1,7 @@
+# rust gitignore
+/target
+
+# ignore c# artifacts
+/crosslangnet.dll
+/crosslangnet.pdb
+/crosslangnet.runtimeconfig.json

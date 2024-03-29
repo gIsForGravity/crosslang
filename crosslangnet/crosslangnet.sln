@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crosslangnet", "crosslangnet\crosslangnet.csproj", "{BB100C09-1A33-4BB3-A0B9-976E424CCF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{BD32E5A2-0998-49C4-9E82-06E8A5AA0F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB100C09-1A33-4BB3-A0B9-976E424CCF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB100C09-1A33-4BB3-A0B9-976E424CCF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB100C09-1A33-4BB3-A0B9-976E424CCF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB100C09-1A33-4BB3-A0B9-976E424CCF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD32E5A2-0998-49C4-9E82-06E8A5AA0F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD32E5A2-0998-49C4-9E82-06E8A5AA0F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD32E5A2-0998-49C4-9E82-06E8A5AA0F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD32E5A2-0998-49C4-9E82-06E8A5AA0F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
